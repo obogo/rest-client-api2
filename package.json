@@ -1,0 +1,31 @@
+{
+  "name": "rest-client-api2",
+  "version": "1.0.0",
+  "description": "Quickly generate RESTful web client APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obogo/rest-client-api2.git"
+  },
+  "keywords": [
+    "javascript",
+    "rest",
+    "client",
+    "api",
+    "generator"
+  ],
+  "author": "Rob Taylor <roboncode@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/obogo/rest-client-api2/issues"
+  },
+  "homepage": "https://github.com/obogo/rest-client-api2#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "hbjs": "^0.21.1",
+    "load-grunt-configs": "^1.0.0"
+  }
+}
